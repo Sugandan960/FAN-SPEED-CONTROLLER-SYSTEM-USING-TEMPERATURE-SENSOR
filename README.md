@@ -12,10 +12,8 @@ N.Sugandan 212222060260
 	Temperature Sensor (DHT11/DHT22/TMP36)
 
 # Circuit Diagram:
+<img width="1038" height="686" alt="image" src="https://github.com/user-attachments/assets/11792016-88e0-46a9-9da7-d30d90f0f809" />
 
----
-To upload
---
 
 # Procedure // Modify the procedure based on your circuit
 
