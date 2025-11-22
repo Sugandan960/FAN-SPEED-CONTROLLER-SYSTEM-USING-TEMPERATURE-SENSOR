@@ -145,10 +145,4 @@ void loop() {
 }
 Result:
 Thus the measure of Temperature using DHT11/DHT22/TMP36 sensor with Arduino UNO Board/ESP- 32 using Tinker CAD.
---
 
-# Result
-
----
-To upload
---
